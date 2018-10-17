@@ -1,0 +1,1 @@
+var duvida = require('./duvidaCruel')
